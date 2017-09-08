@@ -17,6 +17,9 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
+    
+    // test for CI poll SVC
+    self.view.backgroundColor = [UIColor redColor];
 }
 
 
