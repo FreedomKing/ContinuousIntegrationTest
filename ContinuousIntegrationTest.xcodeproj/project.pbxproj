@@ -274,16 +274,16 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_IDENTITY = "iPhone Developer: Maochun Li (83L7HA2RML)";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Maochun Li (83L7HA2RML)";
+				CODE_SIGN_IDENTITY = "iPhone Developer: 阿木 阿姆 (X4C3WY5AJ7)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: 阿木 阿姆 (X4C3WY5AJ7)";
 				CODE_SIGN_STYLE = Manual;
 				DEVELOPMENT_TEAM = UVT62Q266A;
 				INFOPLIST_FILE = ContinuousIntegrationTest/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.cpeoc.ContinuousIntegrationTest;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "755687d1-e2e7-4a2d-898f-75cb15c78a6a";
-				PROVISIONING_PROFILE_SPECIFIER = zalQiyeCPEOC_20170630_develop;
+				PROVISIONING_PROFILE = "24344663-f5ce-4376-9626-de2234d5074d";
+				PROVISIONING_PROFILE_SPECIFIER = zalQiyeCPEOC_20170413_develop;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
@@ -292,8 +292,8 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_IDENTITY = "iPhone Developer: Maochun Li (83L7HA2RML)";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Maochun Li (83L7HA2RML)";
+				CODE_SIGN_IDENTITY = "iPhone Developer: 阿木 阿姆 (X4C3WY5AJ7)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: 阿木 阿姆 (X4C3WY5AJ7)";
 				CODE_SIGN_STYLE = Manual;
 				DEVELOPMENT_TEAM = UVT62Q266A;
 				INFOPLIST_FILE = ContinuousIntegrationTest/Info.plist;
