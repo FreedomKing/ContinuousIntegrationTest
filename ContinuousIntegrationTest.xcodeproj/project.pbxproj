@@ -274,6 +274,8 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer: Maochun Li (83L7HA2RML)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Maochun Li (83L7HA2RML)";
 				CODE_SIGN_STYLE = Manual;
 				DEVELOPMENT_TEAM = UVT62Q266A;
 				INFOPLIST_FILE = ContinuousIntegrationTest/Info.plist;
@@ -290,6 +292,8 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer: Maochun Li (83L7HA2RML)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Maochun Li (83L7HA2RML)";
 				CODE_SIGN_STYLE = Manual;
 				DEVELOPMENT_TEAM = UVT62Q266A;
 				INFOPLIST_FILE = ContinuousIntegrationTest/Info.plist;
